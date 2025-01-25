@@ -2,7 +2,7 @@
 
 Welcome to the Selenium Course! This guide provides a complete breakdown of the course content, syllabus, and frequently asked questions to help you navigate and make the most of this learning experience.
 
-
+new
 
 ## **Course Breakdown**
 
