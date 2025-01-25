@@ -4,6 +4,7 @@ Welcome to the Selenium Course! This guide provides a complete breakdown of the 
 
 ---
 
+
 ## **Course Breakdown**
 
 | **Topic**                  | **Percentage** |
